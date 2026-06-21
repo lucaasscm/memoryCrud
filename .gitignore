@@ -1,0 +1,21 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+memoryCrud
+/userCrud
+
+# Test & coverage
+*.test
+*.out
+
+# Go workspace / env
+go.work
+go.work.sum
+.env
+
+# Editor / OS
+.idea/
+.vscode/
+.DS_Store
